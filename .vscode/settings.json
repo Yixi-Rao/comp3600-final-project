@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "typeinfo": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iterator": "cpp",
+        "unordered_map": "cpp",
+        "iosfwd": "cpp"
+    }
+}
